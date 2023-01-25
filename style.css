@@ -217,7 +217,7 @@ nav .fa-caret-left{
     display: none;
 }
 
-@media only screen and (max-width:60000px){
+@media only screen and (max-width:600px){
     #header{
         background-image: url(images/bpxxqqvps4h91-phone.gif)
     }
